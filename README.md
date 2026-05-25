@@ -10,8 +10,8 @@ application-development home for the Modern GB ecosystem.
 - Link the ecosystem domains:
   - `moderngb.com`
   - `stampdecoder.app`
-  - `kioskdemo.app`
-  - `c2t.app`
+  - `c2t.dev`
+  - `kiosk.c2t.dev`
 - Provide a future home for shared integration work such as Royal Mail tracking,
   parcel sizing, carrier data, policy pages, and app support routes.
 
