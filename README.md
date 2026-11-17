@@ -1,20 +1,17 @@
 # Modern GB Corporate Site
 
-Static GitHub Pages site for `moderngb.net`, the corporate and
-application-development home for the Modern GB ecosystem.
+Static GitHub Pages site for `moderngb.net`, the company site for Modern GB.
 
 ## Purpose
 
-- Present Modern GB as the development identity for philately, postal workflow,
-  and counter-side software.
-- Link the ecosystem domains:
+- Present Modern GB as the company behind its collector apps and reference sites.
+- Link the collector-facing domains:
   - `moderngb.com`
   - `stampdecoder.app`
-  - `barcodelab.app`
-  - `c2t.dev`
-  - `kiosk.c2t.dev`
-- Provide a future home for shared integration work such as Royal Mail tracking,
-  parcel sizing, carrier data, policy pages, and app support routes.
+  - `barcodedstamps.com`
+  - `firstdaycover.co.uk`
+- Keep to the collector side only. Test tools and work outside stamp collecting
+  are not listed here.
 
 ## GitHub Pages
 
