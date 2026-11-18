@@ -356,3 +356,11 @@ h1 {
     flex-direction: column;
   }
 }
+
+.site-footer a { color: #fffaf1; }
+.prose { max-width: 760px; }
+.prose h1 { font-size: clamp(2rem, 4vw, 3rem); margin-bottom: 0.3em; }
+.prose h2 { margin-top: 1.6em; font-size: 1.3rem; }
+.prose p { line-height: 1.65; }
+.prose .analytics-settings { color: var(--teal); }
+.prose a { color: var(--teal); text-decoration: underline; text-underline-offset: 2px; }
